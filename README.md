@@ -6,7 +6,7 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 ## Actividad 1: Píxel entre letras
 El píxel debe estar fuera de la primera fila de pantalla.
 ```
-3E 22 32 F5 C0 18 FE
+3E 91 32 F5 C0 18 FE
 ```
 PC: 4000
 
@@ -33,7 +33,7 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/pixelentreletra.bmp)
+![Actividad 1](/pixelentreletras.bmp)
 ![Actividad 2](/tuimagen2.png)
 ![Actividad 3](/tuimagen3.png)
 ![Actividad 4](/tuimagen4.png)
